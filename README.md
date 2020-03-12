@@ -1,7 +1,7 @@
 # Send SMS and Emails from Excel without expensive SMS gateways
 
 ![](./media/excelvid.gif)
-![](./media/appvid.mp4)
+![](./media/appvid.gif)
 
 ## Introduction 
 
